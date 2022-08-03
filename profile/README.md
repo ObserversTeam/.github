@@ -2,7 +2,7 @@
 
 
 <div align=center>
-<img src="https://observersteam.ir/img/obs.png" width="300">
+<img src="https://observersteam.ir/img/obs.png" width="200">
 <h1> About us ⚙ </h1>
 <p> 👁 <strong>Observers</strong> is a development team working in the field of bot, automation and the web This team has experienced specialists in this specialty. </p>
 <div>
